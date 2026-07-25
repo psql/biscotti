@@ -32,8 +32,8 @@ A practice rooted in Walt Disney's [*The Illusion of Life*](https://en.wikipedia
 ## TanakiOS
 
 This repo is the **upstream Character Operating System**: every creature in the
-line is a fork of it, and the fork graph is the family tree (see the
-[Taxonomy](https://github.com/psql/tanaki/wiki/Taxonomy) and the
+line descends from it by real git lineage, carrying this history inside its
+own (see the [Taxonomy](https://github.com/psql/tanaki/wiki/Taxonomy) and the
 [fork proposal](https://github.com/psql/tanaki/wiki/CharacterOS-Fork-Proposal)).
 
 - [`core/`](core/) is owned by Tanaki and flows downstream to every
@@ -46,6 +46,14 @@ line is a fork of it, and the fork graph is the family tree (see the
 To evolve a descendant, merge from its parent. To gift a discovery to the
 whole line, PR it into this repo's `core/`.
 
+## Embodiment
+
+[**tanaki-prime**](https://github.com/psql/tanaki-prime) is the WIP embodiment
+implementation of Tanaki: the rig, animation, paint, sound, props, and tools
+that give the spirit a body. It is derived from this repo and carries Tanaki's
+complete original history; this repo stays light, holding only the character
+himself.
+
 ## License
 
 The Tanaki character and all assets in this repository are available to reuse and remix for non-commercial and commercial use, under the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
@@ -56,4 +64,4 @@ See [`log.md`](log.md) for updates on Tanaki's brain.
 
 ## Credits
 
-Shoutout to [@wandersonltd](https://github.com/wandersonltd) for the incredible Blender rig.
+Shoutout to [@wandersonltd](https://github.com/wandersonltd) for the incredible Blender rig, which now lives in [tanaki-prime](https://github.com/psql/tanaki-prime).
