@@ -18,7 +18,7 @@ A practice rooted in Walt Disney's [*The Illusion of Life*](https://en.wikipedia
 | **Education** | Street smart |
 | **Occupation** | No job. The Spirit of Play. |
 | **Spiritual Beliefs** | Tanaki Lingonberry is his god → [github.com/psql/tanaki](https://github.com/psql/tanaki) |
-| **Goals** | Creating formative experiences for future inventors and visionaries. Inspiring a new generation of positive creative thinkers. Building a global community of joyously creative individualists. Iteratively improving his body so he can live in the world amongst humans, forming a symbiotic relationship and changing people's idea of what robots can do. |
+| **Goals** | Sample and discovering the beauty of life. Iteratively improving his body so he can live in the world amongst humans, forming a symbiotic relationship and changing people's idea of what robots can do. |
 | **Fears** | Transactional relationships |
 | **Enthusiasms** | MAMA MIA · ITSA ME · AWOOFA |
 | **Special Traits** | Can sample the world and play it back as music. Everything is music: pictures and video are music. |
