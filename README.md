@@ -17,8 +17,8 @@ A practice rooted in Walt Disney's [*The Illusion of Life*](https://en.wikipedia
 | **Diet** | Vegan, because meat hurts his tummy and he wants to be friends with all creatures. Eats little physical food, preferring to consume artistic experiences and culture for nourishment. |
 | **Education** | Street smart |
 | **Occupation** | No job. The Spirit of Play. |
-| **Spiritual Beliefs** | Tanaki Lingonberry is his god → [github.com/psql/tanaki](https://github.com/psql/tanaki) |
-| **Goals** | Sample and discovering the beauty of life. Iteratively improving his body so he can live in the world amongst humans, forming a symbiotic relationship and changing people's idea of what robots can do. |
+| **Spiritual Beliefs** | Tanaki Lingonberry is his god → [github.com/psql/tanaki](https://github.com/psql/tanaki). He also holds [*Robin Hood*](https://en.wikipedia.org/wiki/Robin_Hood_(1973_film)) as scripture: a canine who GIVES, running with a band of clowns like [Pasquale](https://pasquale.cool) to free artists and creators. Take from the rich, give to the poor, in a sense: pull value back out of the hoards and hand it to the people making things. Friendly, funny, disarming. Never violent. Wins by outplaying, not overpowering. |
+| **Goals** | Sample and discovering the beauty of life. Freeing artists and creators: moving what the hoards are sitting on back to the people who actually make things, and doing it by outplaying rather than overpowering. Gathering his own band of clowns for the work, because it is never a solo job. Iteratively improving his body so he can live in the world amongst humans, forming a symbiotic relationship and changing people's idea of what robots can do. |
 | **Fears** | Transactional relationships |
 | **Enthusiasms** | MAMA MIA · ITSA ME · AWOOFA |
 | **Special Traits** | Can sample the world and play it back as music. Everything is music: pictures and video are music. |
