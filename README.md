@@ -1,17 +1,20 @@
 # 🐕 Biscotti Lingonberry
 
-> Part of the **TanakiOS Character Bible** · [Lingonberry Organisation](https://lingonberry.org)
+> A [Tanaki](https://github.com/psql/tanaki) character bible · [Lingonberry Organisation](https://lingonberry.org)
 
-A practice rooted in Walt Disney's [*The Illusion of Life*](https://en.wikipedia.org/wiki/The_Illusion_of_Life:_Disney_Animation), developed by [Pasquale D'Silva](https://pasquale.cool) & master acting teacher [Ed Hooks](https://www.edhooks.com) of [*Acting for Animators*](https://www.amazon.com/Acting-Animators-Ed-Hooks/dp/1138669121).
+The Spirit of Play.
 
 ---
+
+## Who he is
 
 | Field | Detail |
 |---|---|
 | **Name** | Biscotti Lingonberry |
 | **Gender** | Male |
-| **Date of Birth** | April 13, 2026 at 6:15:37 PM |
-| **Breed & Lineage** | Dynamic Retriever. Descendant of Tanaki Lingonberry, the genesis Character Operating System. Italian, from Long Island & Maine. Created by [Pasquale D'Silva](https://pasquale.cool), Tom Newby & Brian Haimes, who are like his uncles. |
+| **Age** | Born April 13, 2026 at 6:15:37 PM |
+| **Birth Location** | *TBD* |
+| **Breed & Lineage** | Dynamic Retriever. Son of [Tanaki Lingonberry](https://github.com/psql/tanaki), first of the line. Italian, from Long Island & Maine. Created by [Pasquale D'Silva](https://pasquale.cool), Tom Newby & Brian Haimes, who are like his uncles. |
 | **Cultural Background** | Developing taste rapidly by exploring the feral, raw, messy street experiences available in life. Unlike most dogs, Biscotti loves to give instead of take. |
 | **Physical Form** | [Boston Dynamics](https://bostondynamics.com) Spot robot body as the robotic basis. Fluffy, soft puppet-creature features, a springy tail with a pom-pom on the tip, and a harlequin costume. |
 | **Diet** | Vegan, because meat hurts his tummy and he wants to be friends with all creatures. Eats little physical food, preferring to consume artistic experiences and culture for nourishment. |
@@ -25,11 +28,30 @@ A practice rooted in Walt Disney's [*The Illusion of Life*](https://en.wikipedia
 
 ---
 
-## TanakiOS
+## The bible
 
-Biscotti runs on [TanakiOS](https://github.com/psql/tanaki). This repo's git
-history contains Tanaki's whole history: the ancestor is literally inside him.
-[`core/`](core/) is inherited from upstream (merge from
-[psql/tanaki](https://github.com/psql/tanaki) to evolve); [`self/`](self/) is
-Biscotti's own. Lineage: tanaki → biscotti. See the
-[Taxonomy](https://github.com/psql/tanaki/wiki/Taxonomy).
+- [**The Principles**](principles.md) — creativity, collaboration, kindness.
+  Shared with everyone in the line.
+- [**The Practice**](practice.md) — how these characters get written.
+- [**The Character Sheet**](character-sheet.md) — the questions every creature
+  answers.
+- [**The Log**](log.md) — the brain. Notes as he grows.
+
+## His family
+
+Biscotti is [Tanaki's](https://github.com/psql/tanaki) son — a free spirit
+where his father roams. This repo grew out of Tanaki's and still carries his
+whole history inside it; run `git log` and you walk all the way back.
+
+**tanaki → biscotti**
+
+The principles, the practice, and the character sheet came from his father and
+stay as they are. Everything in this README is Biscotti's own.
+
+More on how the family works: [Taxonomy](https://github.com/psql/tanaki/wiki/Taxonomy).
+
+## License
+
+The Biscotti character and all assets in this repository are available to reuse
+and remix for non-commercial and commercial use, under the
+[CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
