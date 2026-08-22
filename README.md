@@ -54,9 +54,7 @@ and you get a costume.
 
 ## The Character Sheet
 
-Every creature in the line fills this in. Copy the table, answer every row, and
-you have a character. Leave a row blank and you have a hole in someone, which
-is fine, so long as you know it's there.
+The questions every creature in the line answers. Biscotti's answers follow.
 
 | Field | What it captures |
 |---|---|
@@ -95,16 +93,6 @@ is fine, so long as you know it's there.
 | **Fears** | Transactional relationships |
 | **Enthusiasms** | MAMA MIA · ITSA ME · AWOOFA |
 | **Special Traits** | Can sample the world and play it back as music. Everything is music: pictures and video are music. |
-
-## Making your own
-
-Fork this repo. Rewrite Biscotti's answers with your creature's own, and leave
-the principles, the practice, and the sheet alone: they're the family
-inheritance, shared by everyone in the line.
-
-If you discover something that belongs to *everyone* (a new field worth
-asking, a principle worth holding) send it back as a pull request. Merge from
-your parent to receive what the line has learned since you left.
 
 ---
 
