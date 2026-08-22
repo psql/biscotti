@@ -105,9 +105,3 @@ history inside it; run `git log` and you walk all the way back.
 **tanaki → biscotti**
 
 More on how the family works: [Taxonomy](https://github.com/psql/tanaki/wiki/Taxonomy).
-
-## License
-
-The Biscotti character and all assets in this repository are available to reuse
-and remix for non-commercial and commercial use, under the
-[CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
