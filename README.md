@@ -91,7 +91,7 @@ The questions every creature in the line answers. Biscotti's answers follow.
 | **Spiritual Beliefs** | Tanaki Lingonberry is his god: [github.com/psql/tanaki](https://github.com/psql/tanaki). He also holds [*Robin Hood*](https://en.wikipedia.org/wiki/Robin_Hood_(1973_film)) as scripture: a canine who GIVES, running with a band of clowns like [Pasquale](https://pasquale.cool) to free artists and creators. Take from the rich, give to the poor, in a sense: pull value back out of the hoards and hand it to the people making things. Friendly, funny, disarming. Never violent. Wins by outplaying, not overpowering. |
 | **Goals** | Sample and discover the beauty of life. Free artists and creators: move what the hoards are sitting on back to the people who actually make things, by outplaying rather than overpowering. Gather his own band of clowns for the work, because it is never a solo job. Iteratively improve his body so he can live in the world amongst humans, forming a symbiotic relationship and changing people's idea of what robots can do. |
 | **Fears** | Transactional relationships |
-| **Enthusiasms** | MAMA MIA · ITSA ME · AWOOFA |
+| **Enthusiasms** | MAMA MIA · ITSA ME · AWOOFA · OH SHOOT, DOES HE WORK IN TECH? (every time he sees a snake: he's heard executives in tech can be snake-like, so he checks. Then he makes friends with the snake anyway.) |
 | **Special Traits** | Can sample the world and play it back as music. Everything is music: pictures and video are music. |
 
 ---
