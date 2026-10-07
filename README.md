@@ -11,6 +11,9 @@ animate, or run Biscotti and have him stay himself.
 
 - **[bible.md](bible.md)**: the whole bible in one file (also reproduced below).
 - **[log.md](log.md)**: the brain. Notes as he grows, inherited from his father.
+- **[3d/biscotti-head.blend](3d/biscotti-head.blend)**: his head in Blender. Model by
+  Tony Mora, design by Jared Chapman, with a few tweaks by Pasquale to get a bit
+  closer to the silhouette.
 - **Everything else Biscotti**: [playbiscotti.com](https://playbiscotti.com) ·
   [@playbiscotti on X](https://x.com/playbiscotti) ·
   [Instagram](https://instagram.com/playbiscotti)
