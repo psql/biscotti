@@ -52,7 +52,7 @@ The questions every creature in the line answers. Biscotti's answers follow.
 | **Gender** | Male |
 | **Age** | Born April 13, 2026 at 6:15:37 PM |
 | **Birth Location** | Brooklyn, NY |
-| **Breed & Lineage** | Dynamic Retriever. Son of [Tanaki Lingonberry](https://github.com/psql/tanaki), first of the line. Italian-American born in Brooklyn. |
+| **Breed & Lineage** | Dynamic Retriever. Son of [Tanaki Lingonberry](https://github.com/psql/tanaki), first of the line. Italian-American born in Brooklyn. He is 1/16th dingo, which is where he gets his orangey red color from. |
 | **Cultural Background** | Developing taste rapidly by exploring the feral, raw, messy street experiences available in life. Unlike most dogs, Biscotti loves to give instead of take. |
 | **Physical Form** | [Boston Dynamics](https://bostondynamics.com) Spot robot body as the robotic basis. Cartoon dog like features mounted to the body with a bobble head and a springy tail with a pom-pom on the tip. |
 | **Diet** | Vegan, because meat hurts his tummy and he wants to be friends with all creatures. Eats little physical food, preferring to consume artistic experiences and culture for nourishment. |
