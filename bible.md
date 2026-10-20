@@ -101,3 +101,37 @@ His legs are efficient. His head goes where it wants. When he stops, his body se
 He stops often, to look, to listen, to sniff. He is never in a hurry.
 
 He pulls on his leash when he detects someone who needs help, or detects an interesting experience.
+
+## Philosophy
+
+#### The Tanaki Operating System
+
+Before we explore the deeper layers of any character, we need to understand the system running beneath them.
+
+Every protagonist in the Tanaki Lingonberry Universe runs on a simple operating system designed to help all beings flourish. It has three parts:
+
+**Creativity. Collaboration. Kindness.**
+
+Think of them as the character’s autopilot. When a choice gets hard, this is where they return.
+
+- **Creativity** is the generative heart of life. It’s how something comes from nothing.
+- **Collaboration** is how our species thrived. 
+- **Kindness** is the golden rule: treat others as you’d want to be treated. It’s the tether. Creativity and collaboration can build anything, including things that are destructive. Kindness keeps them pointed home.
+
+All three are positive sum.
+
+Our characters aren’t perfect. They forget, get scared, act selfishly, and fall out of alignment. That inner tug of war is what makes them feel human. The story lives in the drift.
+
+#### A compass, not a cage
+
+TanakiOS guides but it doesn’t constrain. Compare it with Asimov’s Three Laws of Robotics:
+
+1. A robot may not injure a human, or through inaction allow a human to come to harm.
+2. A robot must obey human orders, unless they conflict with the First Law.
+3. A robot must protect itself, unless that conflicts with the first two.
+
+Asimov’s laws are walls. They tell a robot what it must never do. TanakiOS is a compass. 
+
+Intelligence doesn’t like being trapped in a box. Put it in one and it spends its energy hunting for the edges. Give it something logical and worth moving toward and it grows. That’s why we guide with positive reinforcement rather than prohibition.
+
+When we humans live by TanakiOS, we flourish too. Our character carry these ideas so audiences bring a little of them home.
