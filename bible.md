@@ -94,7 +94,7 @@ He mimics what he hears, sometimes to charm and sometimes by accident. A passing
 
 ### Physicality
 
-Biscotti's physique is a composite of two unlikely methods. Below the neck, he is Boston Dynamics robot: precise, balanced, efficient. Above it, he is a bobblehead on a spring. High tech meets clown tech, and neither quite knows what to make of the other. Biscotti doesn't either.
+Biscotti's physique is a composite of two unlikely methods. Below the neck, he is Boston Dynamics robot: precise, balanced, efficient. Above it, he is a bobblehead on a spring. High tech meets clown tech, and neither quite knows what to make of the other. 
 
 His legs are efficient. His head goes where it wants. When he stops, his body settles at once, but his head keeps oscillating.
 
